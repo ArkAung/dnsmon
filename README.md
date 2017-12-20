@@ -15,7 +15,7 @@
 #### Split Deploy
 - Split up newly registered domains to file chuncks
 - Deploy to 10 planet lab nodes (with respect to nodes in node-list)
-	- Install bind-utils and jwhois on planetlab nodes
+	- Install bind-utils and whois on planetlab nodes
 	- Run processes to query resource records with respect to list of domains in node files
 
 #### Repo Man
