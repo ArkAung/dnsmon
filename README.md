@@ -1,5 +1,5 @@
 # DNS Monitor
-####A test of scripts to monitor DNS behaviours of newly registered domains
+####A suite of scripts to monitor DNS behaviours of newly registered domains
 ----
 #### Fetch
 - Fetch newly registerd .com domains from domain punch
